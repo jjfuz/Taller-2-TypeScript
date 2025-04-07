@@ -7,7 +7,7 @@ export const series: Serie[] = [
     "AMC",
     5,
     "Set and filmed in Albuquerque, New Mexico, the series tells the story of Walter White, a struggling and depressed high school chemistry teacher who is diagnosed with lung cancer",
-    "https://www.amc.com/shows/breaking-bad",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "imgs/breakingbad.jpeg"
   ),
 
@@ -17,7 +17,7 @@ export const series: Serie[] = [
     "Netflix",
     6,
     "The series begins revolving around Piper Chapman, a woman in her thirties living in New York City who is sentenced to 15 months in Litchfield Penitentiary",
-    "https://www.netflix.com/co/title/70242311",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "imgs/orangeblack.jpeg"
   ),
 
@@ -27,7 +27,7 @@ export const series: Serie[] = [
     "HBO",
     7,
     "American fantasy drama",
-    "https://www.hbo.com/game-of-thrones",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "imgs/got.jpeg"
   ),
 
@@ -37,7 +37,7 @@ export const series: Serie[] = [
     "CBS",
     12,
     "Leonard and Sheldon are brilliant physicists...",
-    "https://www.cbs.com/shows/big_bang_theory/about/",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "imgs/tbbt.jpeg"
   ),
 
@@ -47,7 +47,7 @@ export const series: Serie[] = [
     "BBC",
     4,
     "Sherlock depicts consulting detective Sherlock Holmes...",
-    "https://www.bbc.co.uk/programmes/b018ttws",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "imgs/sherlock.jpeg"
   ),
 
@@ -57,7 +57,7 @@ export const series: Serie[] = [
     "BBC",
     2,
     "A Very English Scandal is a fact-based British television comedy-drama miniseries...",
-    "https://www.bbc.co.uk/programmes/p065smy4",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "imgs/scandal.jpeg"
   ),
 ];
